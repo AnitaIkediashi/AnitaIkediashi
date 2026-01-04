@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Anita Ikediashi
 
-🌟 **Frontend Developer**
+🌟 **Frontend Developer || Software Engineer**
 
 ---
 
@@ -20,7 +20,7 @@ I am a passionate Frontend Developer with 3 years of experience crafting high-pe
 
 ## 💼 Featured Projects
 
-- [Booking Application](https://github.com/AnitaIkediashi/travel_agency_next) — Next.js booking platform for travel agencies.
+- [Booking Application](https://github.com/AnitaIkediashi/travel-booking-website) — Next.js booking platform for travel agencies.
 - [Talentpoel Consultancy Website](https://github.com/jephtahabu/Talentpoel) — Modern consultancy site, frontend contributions.
 - [Budget App](https://github.com/AnitaIkediashi/budget-app)
 
