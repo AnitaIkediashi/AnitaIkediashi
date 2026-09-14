@@ -1,12 +1,12 @@
 # Hi there 👋, I'm Anita Ikediashi
 
-🌟 **Frontend Developer || Software Engineer**
+🌟 **Fullstack Developer || Software Engineer**
 
 ---
 
 ## 🚀 About Me
 
-I am a passionate Frontend Developer with 3 years of experience crafting high-performance, accessible UIs that elevate user experiences. I thrive on challenges—whether it is solving tough problems, exploring new tech, or reading up on code ideas. My goal? Build products people love to use.
+I am a passionate Fullstack Developer with 3 years of experience crafting high-performance, accessible UIs that elevate user experiences. I thrive on challenges—whether it is solving tough problems, exploring new tech, or reading up on code ideas. My goal? Build products people love to use.
 
 ---
 
