@@ -38,7 +38,7 @@ I am a passionate Fullstack Developer with 3 years of experience crafting high-p
 
 ## 📫 Connect With Me
 
-- Portfolio: [anita-ikediashi-design.vercel.app](https://anita-ikediashi-design.vercel.app/)
+- Portfolio: [https://anita-ikediashi-portfolio-v3.vercel.app/](https://anita-ikediashi-portfolio-v3.vercel.app/)
 - LinkedIn: [Anita Ikediashi](https://www.linkedin.com/in/anita-ikediashi-a61668188)
 
 ---
